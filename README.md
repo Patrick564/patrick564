@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# I'm Patrick Vilchez and I'm currently learning Nodejs and Reactjs 🌱
+
 <!--
 **Patrick564/patrick564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
