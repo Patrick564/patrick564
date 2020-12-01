@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-##### I'm Patrick Vilchez and I'm currently learning Nodejs and Reactjs 🌱
+##### I'm Patrick Vilchez and I know basics about Node/Express and Vue 🌱
+
+##### Also I like Python and Django framework, recently I was learn about FastAPI.
 
 <!--
 **Patrick564/patrick564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
