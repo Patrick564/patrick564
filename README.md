@@ -1,24 +1,11 @@
-### Hi there ⚡
+<h3 align="center">Hi, I'm Patrick!</h3>
 
-##### I am a developer with knowledge in frontend and backend.  🌱
-
-##### I always attempt to learn new interesting things!
+- I am a developer with knowledge in frontend and backend.  🌱
+- I always attempt to learn new interesting things!
 
 ### Languages
 
 <img src="https://raw.githubusercontent.com/Patrick564/static-files/main/github-profile/icons8-html-5.svg" alt="HTML5" widht="48px" height="48px" />   <img src="https://raw.githubusercontent.com/Patrick564/static-files/main/github-profile/icons8-css3.svg" alt="Django" width="48px" height="48px" />   <img src="https://raw.githubusercontent.com/Patrick564/static-files/main/github-profile/icons8-javascript.svg" alt="Django" width="48px" height="48px" />   <img src="https://raw.githubusercontent.com/Patrick564/static-files/main/github-profile/icons8-python.svg" alt="Django" width="48px" height="48px" />   <img src="https://raw.githubusercontent.com/Patrick564/static-files/main/github-profile/django.svg" alt="Django" width="48px" height="48px" />   <img src="https://raw.githubusercontent.com/Patrick564/static-files/main/github-profile/icons8-nodejs.svg" alt="Django" width="48px" height="48px" />   <img src="https://raw.githubusercontent.com/Patrick564/static-files/main/github-profile/icons8-reaccionar.svg" alt="Django" width="48px" height="48px" />
 
-<!--
-**Patrick564/patrick564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<img src="./assets/top-languages-card.svg" alt="Card with my top languages." />

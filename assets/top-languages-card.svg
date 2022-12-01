@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="165" fill="none" aria-labelledby="descId">
+  <style>
+    @keyframes scaleInAnimation{0%{transform:translate(-5px,5px) scale(0)}to{transform:translate(-5px,5px) scale(1)}}@keyframes fadeInAnimation{0%{opacity:0}to{opacity:1}}.lang-name{font:400 11px&quot;Segoe UI&quot;,Ubuntu,Sans-Serif;fill:#a9fef7}*{animation-duration:0s!important;animation-delay:0s!important}
+  </style>
+  <rect width="349" height="99%" x=".5" y=".5" fill="#141321" stroke="#e4e2e2" data-testid="card-bg" rx="4.5"/>
+  <g data-testid="card-title">
+    <text data-testid="header" style="font:600 18px&quot;Segoe UI&quot;,Ubuntu,Sans-Serif;fill:#fe428e;animation:fadeInAnimation .8s ease-in-out forwards" transform="translate(25 35)">Most Used Languages</text>
+  </g>
+  <g data-testid="main-card-body" transform="translate(0 55)">
+    <svg x="25" data-testid="lang-items">
+      <mask id="rect-mask">
+        <rect width="300" height="8" fill="#fff" rx="5"/>
+      </mask>
+      <path fill="#f1e05a" d="M0 0h178.79v8H0z" data-testid="lang-progress" mask="url(#rect-mask)"/>
+      <path fill="#3572A5" d="M178.79 0h54.9v8h-54.9z" data-testid="lang-progress" mask="url(#rect-mask)"/>
+      <path fill="#00ADD8" d="M233.69 0h48.26v8h-48.26z" data-testid="lang-progress" mask="url(#rect-mask)"/>
+      <path fill="#3178c6" d="M281.95 0h12.43v8h-12.43z" data-testid="lang-progress" mask="url(#rect-mask)"/>
+      <path fill="#ff5a03" d="M294.38 0H310v8h-15.62z" data-testid="lang-progress" mask="url(#rect-mask)"/>
+      <g transform="translate(0 25)">
+        <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
+        <text x="15" y="10" class="lang-name" data-testid="lang-name">
+        JavaScript 59.60%
+      </text>
+      </g>
+      <g transform="translate(0 50)">
+        <circle cx="5" cy="6" r="5" fill="#3572A5"/>
+        <text x="15" y="10" class="lang-name" data-testid="lang-name">
+        Python 18.30%
+      </text>
+      </g>
+      <g transform="translate(0 75)">
+        <circle cx="5" cy="6" r="5" fill="#00ADD8"/>
+        <text x="15" y="10" class="lang-name" data-testid="lang-name">
+        Go 16.09%
+      </text>
+      </g>
+      <g transform="translate(150 25)">
+        <circle cx="5" cy="6" r="5" fill="#3178c6"/>
+        <text x="15" y="10" class="lang-name" data-testid="lang-name">
+        TypeScript 4.14%
+      </text>
+      </g>
+      <g transform="translate(150 50)">
+        <circle cx="5" cy="6" r="5" fill="#ff5a03"/>
+        <text x="15" y="10" class="lang-name" data-testid="lang-name">
+        Astro 1.87%
+      </text>
+      </g>
+    </svg>
+  </g>
+</svg>
