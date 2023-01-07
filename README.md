@@ -15,4 +15,4 @@
 </p>
 
 <br />
-<img src="./assets/top-languages-card.svg" alt="Card with my top languages." />
+<img src="[./assets/top-languages-card.svg](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick564&hide=css,html&layout=compact&theme=radical)" alt="Card with my top languages." />
