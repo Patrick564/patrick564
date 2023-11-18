@@ -16,3 +16,4 @@
 
 <br />
 <img src="https://github-readme-stats-steel-five-84.vercel.app/api/top-langs/?username=patrick564&hide=css,html&layout=compact&theme=radical" alt="Card with my top languages." />
+<img src="https://github-readme-stats-1vag99cxa-patrick564.vercel.app/api/top-langs/?username=patrick564&hide=css,html&layout=compact&theme=radical" alt="Card with my top languages." />
