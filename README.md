@@ -19,4 +19,9 @@
 
 <br />
 
-[<img src="https://github-readme-stats-black-eta.vercel.app/api/pin?username=patrick564&repo=advent-of-code&theme=radical" alt="Card with my AoC repo" />](https://github.com/Patrick564/advent-of-code)
+<a href="https://github.com/Patrick564/go-versions-api">
+  <img align="center" src="https://github-readme-stats-black-eta.vercel.app/api/pin?username=patrick564&repo=go-versions-api&theme=radical" alt="Card with my AoC repo" />
+</a>
+<a href="https://github.com/Patrick564/advent-of-code">
+  <img align="center" src="https://github-readme-stats-black-eta.vercel.app/api/pin?username=patrick564&repo=advent-of-code&theme=radical" alt="Card with my AoC repo" />
+</a>
