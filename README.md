@@ -12,7 +12,7 @@
 <br />
 
 <p align="left">
-  <img src="https://github-readme-stats-black-eta.vercel.app/api/top-langs/?username=patrick564&hide=css,html,php,jsx&exclude_repo=spotify-clon-backend,chat-room-client,chat-room-server,planetarium-nasa-api,github-readme-stats&layout=donut&theme=radical" alt="Card with my top languages." />
+  <img src="https://github-readme-stats-black-eta.vercel.app/api/top-langs/?username=patrick564&hide=css,html,php&exclude_repo=spotify-clon-backend,chat-room-client,chat-room-server,planetarium-nasa-api,github-readme-stats&layout=donut&theme=radical" alt="Card with my top languages." />
 </p>
 
 <h3 align="center">Featured</h3>
